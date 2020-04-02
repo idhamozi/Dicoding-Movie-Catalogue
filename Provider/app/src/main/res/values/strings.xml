@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movies">MOVIES</string>
+    <string name="tv_shows">TV SHOWS</string>
+
+    <string name="option_language">en-US</string>
+    <string name="Genre">Genre</string>
+    <string name="GenreTes">Genre 1, Genre 2, Genre 3, Genre 4</string>
+    <string name="Title">Title</string>
+    <string name="Year">Premiere</string>
+    <string name="read_more">Read More …</string>
+    <string name="language">Language</string>
+    <string name="empty_favorites">There are no favorites %s in database</string>
+    <string name="widget_empty_favorites">There are no favorites in database</string>
+    <string name="search">Search</string>
+    <string name="not_found">Search Not Found</string>
+    <string name="favorites">Favorites List</string>
+    <string name="alarm">Set Alarm</string>
+    <string name="choose_language">Language</string>
+    <string name="show_favorite">Favorite List</string>
+    <string name="request_failed">Failed process your request</string>
+    <string name="request_genres_failed">Failed to request genres</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="tes">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+    <string name="removed_from_favorites">Removed from Favorites</string>
+
+    <string name="reminder">Daily Reminder</string>
+    <string name="reminder_description">It will remind you to back to Movie Catalogue every 7 AM</string>
+    <string name="release_reminder">Release Today Reminder</string>
+    <string name="release_reminder_description">It will remind you what movies are release today every 8 AM</string>
+    <string name="daily_notif">Movie Catalogue is missing you!</string>
+    <string name="release">%s has been release today!</string>
+    <string name="alarm_turned_on">%s turned on</string>
+    <string name="alarm_turned_off">%s turned off</string>
+
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Consumer App</string>
+    <string name="movies">MOVIES</string>
+    <string name="tv_shows">TV SHOWS</string>
+
+    <string name="option_language">en-US</string>
+    <string name="Genre">Genre</string>
+    <string name="GenreTes">Genre 1, Genre 2, Genre 3, Genre 4</string>
+    <string name="Title">Title</string>
+    <string name="Year">Premiere</string>
+    <string name="read_more">Read More …</string>
+    <string name="language">Language</string>
+    <string name="empty_favorites">There are no favorites %s in database</string>
+    <string name="widget_empty_favorites">There are no favorites in database</string>
+    <string name="favorites">Favorites List</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="show_favorite">Favorite List</string>
+    <string name="request_failed">Failed process your request</string>
+    <string name="request_genres_failed">Failed to request genres</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="tes">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+    <string name="removed_from_favorites">Removed from Favorites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
